@@ -9,24 +9,18 @@
 <div class="carousel">
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">ASEMA</div>
-      <div class="num">01</div>
       <img src="photo_2024-10-28_18-05-05.jpg">
     </div>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Warsaw</div>
-      <div class="num">02</div>
       <img src="photo_2024-10-28_18-02-57.jpg" />
     </div>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Madrid</div>
-      <div class="num">03</div>
       <img src="photo_2024-10-28_18-04-09.jpg"
       />
     </div>
@@ -34,8 +28,6 @@
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Sydney</div>
-      <div class="num">04</div>
       <img src="photo_2024-10-28_18-06-33.jpg" />
     </div>
   </div>
@@ -50,39 +42,29 @@
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Prague</div>
-      <div class="num">06</div>
       <img src="photo_2024-10-28_18-04-21.jpg" />
     </div>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Munich</div>
-      <div class="num">07</div>
       <img src="photo_2024-10-28_18-05-32.jpg" />
     </div>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Venice</div>
-      <div class="num">08</div>
       <img src="photo_2024-10-28_18-06-07.jpg" />
     </div>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Oslo</div>
-      <div class="num">09</div>
       <img src="photo_2024-10-28_18-06-21.jpg" />
     </div>
   </div>
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">London</div>
-      <div class="num">10</div>
       <img src="photo_2024-10-28_18-04-50.jpg" />
     </div>
   </div>
