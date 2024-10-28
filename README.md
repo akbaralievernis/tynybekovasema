@@ -34,8 +34,6 @@
 
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Istanbul</div>
-      <div class="num">05</div>
       <img src="photo_2024-10-28_18-04-28.jpg" />
     </div>
   </div>
