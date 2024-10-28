@@ -9,7 +9,7 @@
 <div class="carousel">
   <div class="carousel-item">
     <div class="carousel-box">
-      <div class="title">Paris</div>
+      <div class="title">ASEMA</div>
       <div class="num">01</div>
       <img src="photo_2024-10-28_18-05-05.jpg">
     </div>
