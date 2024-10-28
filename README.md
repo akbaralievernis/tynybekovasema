@@ -128,7 +128,6 @@
     ></path>
   </symbol>
 </svg>
-
 <div class="cursor"></div>
 <div class="cursor cursor2"></div>
   <script>
